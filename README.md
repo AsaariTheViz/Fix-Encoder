@@ -1,5 +1,8 @@
 # Forbidden Encoder
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ## Description
 Welcome to Forbidden Encoder, a Telegram bot that allows you to encode your videos with your desired FFmpeg settings. The bot has a user-friendly interface and can keep encoding even after restart due to the database.
 
